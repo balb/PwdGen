@@ -1,0 +1,1 @@
+.nuget\nuget pack PwdGen.csproj -Prop Configuration=Release
